@@ -1,0 +1,6 @@
+all:
+  hosts: 
+    bastion.dev.myhost.com:
+      ansible_user: ubuntu
+    bastion.prod.myhost.com:
+      ansible_user: ubuntu

@@ -1,0 +1,8 @@
+---
+# vars file for packages
+
+users:
+  - alex
+  - sam
+  - mike
+  - benjamin
